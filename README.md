@@ -13,3 +13,4 @@ Ao finalizar bloqueei a planilha deixando somente as celulas de valores desbloqu
 	*Taxa do rementimento mensal
 	
 No setor de simulação de FII , deixei em destaque o campo para filtrar o tipo de perfil de inventimento, assim o usuário pode escolher qual tipo mais se adequa à sua situação atual.
+Prévia na folder de imagem.
